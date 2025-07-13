@@ -1,4 +1,4 @@
-Bank Marketing - Predict Term Deposit
+<h1>Bank Marketing - Predict Term Deposit</h1>
 
 Hi, this is my Final Project as Data Scientist in dibimbing.id. My name is Daniel Yosef Timisela a data enthusiast who has just started my data learning journey
 by joining the bootcamp data science batch 31. This project is about making various kinds of machine learning that is suitable for use by dataset that can predict
